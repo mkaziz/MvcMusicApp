@@ -1,0 +1,8 @@
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.BusObj.dll
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.BusObj.pdb
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.ConsoleWriter.csprojResolveAssemblyReference.cache

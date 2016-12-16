@@ -1,0 +1,5 @@
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.BusObj\bin\Debug\HelloWorld.BusObj.dll
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.BusObj\bin\Debug\HelloWorld.BusObj.pdb
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.BusObj\obj\Debug\HelloWorld.BusObj.csprojResolveAssemblyReference.cache
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.BusObj\obj\Debug\HelloWorld.BusObj.dll
+c:\users\khalid\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.BusObj\obj\Debug\HelloWorld.BusObj.pdb
