@@ -12,7 +12,9 @@ namespace StringParser.Console
         static void Main(string[] args)
         {
             string str = "(id,created,employee(id,firstname,employeeType(id), lastname),location(id,lat,long),something,anything)";
-            System.Console.WriteLine(StringContainer.Get(str).ToDeepString());
+            var container = StringContainer.Get(str);
+            container.Sort();
+            System.Console.WriteLine(container.ToDeepString());
             System.Console.ReadKey();
         }
     }

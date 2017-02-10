@@ -66,12 +66,12 @@ namespace StringParse.BusObj
 
         public string ToDeepString()
         {
-            return BuildString(new StringBuilder(), 0).ToString();
+            return BuildString(new StringBuilder(), -1).ToString();
         }
 
         protected StringBuilder BuildString(StringBuilder builder, int indentation = -1)
         {
-            builder.AppendLine(string.Format("{0} {1}", new String('-', indentation), this.Data));
+            builder.AppendLine(string.Format("{0} {1}", new String('-', Math.Max(0,indentation)), this.Data));
 
             if (Children != null)
             {
