@@ -251,23 +251,3 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
-
-# Guthrie Specific
-/Guthrie.Web/License.config
-
-/GuthrieEpi/Guthrie.Web/License.config
-/GuthrieEpi/Guthrie.Web/App_Data/blobs
-/GuthrieEpi/Guthrie.Web/App_Data/Elmah
-/GuthrieEpi/Guthrie.Web/stylesheets/main.css
-/GuthrieEpi/Guthrie.Web/stylesheets/main.css.map
-/GuthrieEpi/Guthrie.Web/Errors/*.html
-
-# Compiled js files
-GuthrieEpi/Guthrie.Web/app/**/*.js
-GuthrieEpi/Guthrie.Web/app/**/*.js.map
-GuthrieEpi/Guthrie.Web/app/*.js
-GuthrieEpi/Guthrie.Web/app/*.js.map
-GuthrieEpi/Guthrie.Web/Static/javascript/**/*.js
-GuthrieEpi/Guthrie.Web/Static/javascript/**/*.js.map
-!GuthrieEpi/Guthrie.Web/Static/javascript/lib/*.js
-GuthrieEpi/Guthrie.Web/Static/stylesheets/main.css
